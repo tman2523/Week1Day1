@@ -93,3 +93,27 @@ confirm("My name is " + name + ", I'm " + age + " years old, and I live in " + c
 var response = prompt("What is your favorite color?")
 
 alert(response)
+
+//git clone link to what you want to pull(copy)
+
+//cd foldername
+
+//git remote add Tommy link to my repository
+
+//
+
+
+
+
+
+
+
+//pwd
+
+//git status
+
+//git add main.js
+
+//git commit -m "Finished HW."
+
+//git push Tommy master
