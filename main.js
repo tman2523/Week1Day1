@@ -100,7 +100,7 @@ alert(response)
 
 //git remote add Tommy link to my repository
 
-//
+//git push Tommy master (optional because you will push when your done)
 
 
 
